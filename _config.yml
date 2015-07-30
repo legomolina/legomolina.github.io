@@ -1,6 +1,6 @@
 title:            Cristian Molina Blog
 description:      Sitio web de Cristian Molina (legomolina) estudiante de arquitectura y desarrollador web en ratos libres.
-url:              # Site url.
+url:              legomolina.github.io
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
