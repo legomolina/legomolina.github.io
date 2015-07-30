@@ -1,0 +1,26 @@
+title:            Cristian Molina Blog
+description:      Sitio web de Cristian Molina (legomolina) estudiante de arquitectura y desarrollador web en ratos libres.
+url:              # Site url.
+signoff:          # Your name.
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+paginate: 10
+paginate_path: "/page/:num"
+links:
+  - name:         Inicio
+    url:          /
+  - name:         Sobre mi
+    url:          /about
+  - name:         Email
+    url:          mailto:legomolina@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/legomolina
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
