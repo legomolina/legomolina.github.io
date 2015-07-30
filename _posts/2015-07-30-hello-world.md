@@ -6,7 +6,6 @@ disqus: y
 ---
 
 Hola a todos y bienvenidos a mi nueva web personal donde iré colgando mis proyectos, algunos tutoriales que encuentre interesantes y tonterías varias que se me ocurran.
----
 
 Esta web está enfocada principalmente al desarrollo web en todas sus formas: maquetación, programación desde el lado del cliente y desde el lado del servidor. Intentaré actualizarla a menudo pero no prometo nada ya que tengo otros quehaceres a parte de esto. Espero que os sirva de ayuda a todos y no os corteis a la hora de usar mis cosillas en vuestros sitios.
 
