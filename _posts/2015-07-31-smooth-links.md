@@ -54,7 +54,7 @@ Hoy en día, además de que CSS3 es mucho más ligero, también es más fácil y
 
 Después de la teoría y la historia os voy a enseñar como hacerlo. En CSS3 tenemos las transiciones (ya las explicaré más en profundidad) y con ellas se pueden hacer esas cosas de manera muuy sencilla con un par de líneas de código.
 
-Primero tenemos que poner que dos colores queremos que se vean:
+Primero tenemos que poner qué dos colores queremos que se vean:
 
 ```CSS
 a {
