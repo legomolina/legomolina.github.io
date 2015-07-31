@@ -44,7 +44,7 @@ a:hover {
 }
 ```
 
-Aquí os dejo la web oficial del [W3Schools (inglés)](http://www.w3schools.com/css/css_link.asp) donde se explica mejor que hace cada uno.
+Aquí os dejo la web oficial del <a href="http://www.w3schools.com/css/css_link.asp" target="_blank">W3Schools (inglés)</a> donde se explica mejor que hace cada uno.
 
 Vamos ahora con la parte "histórica": hasta hace unos años, cuando CSS3 no existía, si queríamos hacer un efecto como este: <span class="link">EFECTO CHULO</span> teníamos que usar casi obligatoriamente la librería jquery y su método .animate(). Si no la usábamos obteníamos el siguiente efecto <span class="no-link">EFECTO NO TAN CHULO</span>.
 
