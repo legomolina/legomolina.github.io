@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Sobre mi
+title: About me
 ---
 
-Hola, soy Cristian Molina estudiante de arquitectura en la Universidad Politécnica de Valencia (España) y desarrollador web en mis ratos libres.<br><br>
-Llevo desde los 15 años estudiando lenguajes de programación web como php, javascript o html por mi cuenta por mera curiosidad pero hoy en día se ha convertido en algo más y espero poder seguir mejorando día a día.
+Hi, I'm Cristian Molina and I'm studying web development on IES Conselleria in Valencia. Also I'm starting a project with a friend called <a href="https://nulltilus.com" target="_blank">Nulltilus</a>.
 
-Me podeis encontrar en twitter [@legomolina](http://twitter.com/legomolina), ver mi [GitHub](http://github.com/muan) o enviarme un email a [legomolina@gmail.com](mailto:legomolina@gmail.com).
+You can find me on twitter [@legomolina](http://twitter.com/legomolina), see my [GitHub](http://github.com/legomolina) or send me an email to [legomolina@gmail.com](mailto:legomolina@gmail.com).
