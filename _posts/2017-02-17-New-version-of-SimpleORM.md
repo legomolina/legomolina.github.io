@@ -1,3 +1,10 @@
+---
+layout: post
+title: New version of SimpleORM
+date: 2017-02-17 10:28:00
+disqus: y
+---
+
 Hi, 
 I've been working on my ORM last days and I've reworked how results work.
 
