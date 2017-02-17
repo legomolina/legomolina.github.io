@@ -14,16 +14,16 @@ An ORM is object-relational mapping, that is a programming technique for convert
 type systems in object-oriented programming languages, i.e SQL into PHP or Java. [Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 My ORM is made in PHP and helps you to make queries to the database. Example:
-```PHP
+```
 $result = MyModel::all()->execute();
 ```
 is the same as you write
-```PHP
+```
 $query = $connection->prepare("SELECT * FROM my_table");
 $result = $query->execute();
 ```
 As you can see, the ORM simplifies all queries and allows you to loop through results in a simple way using loop method:
-```PHP
+```
 while($result->loop()) {
   $result->table_field;
 }
